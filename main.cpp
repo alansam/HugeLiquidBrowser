@@ -18,7 +18,7 @@ int main() {
   x = 5;
   std::cout << x++ - (7.0 / 2.0) << std::endl;
 
-return 0;
+//return 0;
 	std::cout << "Hallo wie heißt du? \n";
 	std::string name;
 	std::getline(std::cin, name); // I wanna that it prints all the string with space between them.
